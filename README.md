@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Imran Khattak</h1>
-<h3 align="center">A passionate Programmer from Pakistan</h3>
+<h1 align="center">Hi there, I'm Imran Khattak 👋</h1>
+<h3 align="center">A Competitive Programmer from Pakistan</h3>
 
 <img align="right" alt="coding" with="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imran-khattak](https://github.com/Imran-khattak)
 
-- 📝 I regularly code on Leetcode [https://leetcode.com/Imran_Khattak/](https://leetcode.com/Imran_Khattak/)
+- 📝 I regularly code on Codeforces [https://codeforces.com/profile/imrankhattak](https://codeforces.com/profile/imrankhattak)
 
 - 📫 How to reach me **imrankhattak1212@gmail.com**
 
@@ -25,6 +25,8 @@
 <a href="https://instagram.com/imranktkpc92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imranktkpc92" height="30" width="40" /></a>
 <a href="https://medium.com/@imrankhattak1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imrankhattak1212" height="30" width="40" /></a>
 
+
+<a href="https://codeforces.com/profile/imrankhattak" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944796.png" alt="imran_khattak" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imran_khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imran_khattak" height="30" width="40" /></a>
 </p>
 
