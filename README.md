@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **imrankhattak1212@gmail.com**
 
-- ⚡ Fun fact **I Love Coding on Isolation**
+- ⚡ Fun fact **I Love Coding in Isolation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
